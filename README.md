@@ -1,2 +1,1 @@
 # ExerciciosRubyURFPE-UAST
-# ExerciciosRubyUFRPE-UAST
